@@ -39,16 +39,15 @@
 - SMP VK Mini App — <https://github.com/winipux21/SMP-minniaps>  
 - My Fridge — <https://github.com/winipux21/MyFridge>  
 - Cyber-Referent — <https://github.com/winipux21/CyberReferent>  
-- YouTube Videos Downloader — <https://github.com/winipux21/Youtube_videos_downloader>
 </details>
-
+<!--
 ## 📈 GitHub-статистика
 <!-- Замените <username> на свой ник, если решите вставить динамические бейджи -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=winipux21&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=winipux21&hide_border=true&theme=default" alt="Streak Stats">
 </p>
-
+-->
 ## 📫 Связаться со мной
 - Портфолио: **[gleblozitsky.ru](https://gleblozitsky.ru)**  
 - E-mail: **lozickol@gmail.com**
