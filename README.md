@@ -16,13 +16,11 @@
 - 💬 Люблю шахматы и автоматизирую всё, что можно 🙂
 
 ## 🧰 Стек и инструменты
-`JavaScript` • `TypeScript` • `Python 3` • `Kotlin`  
+`Python 3` • `JavaScript` • `Kotlin`  
 `Node.js` • `Express.js` • `FastAPI` • `React 17` • `WebSocket`  
 `PostgreSQL` • `MongoDB` • `Sequelize` • `Mongoose`  
-`Git & GitHub` • `Docker basics` • `Firebase` • `Yandex API`  
+`Git & GitHub` • `Firebase` • `Yandex API`  
 `OpenAI / Tavily` для AI-фич  
-<!-- Список основан на секции «Навыки» из портфолио -->
-<!-- Добавьте/уберите технологии по необходимости -->
 
 ## 🚀 Проекты
 
